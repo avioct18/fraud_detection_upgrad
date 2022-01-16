@@ -1,3 +1,3 @@
 print ("data processing file")
 
-print ("added sum not correct   check ")
+print ("added sum not correct")
